@@ -1,2 +1,2 @@
 # DragTagDemo
-仿照nice和in等APP的添加标签拖拽功能
+添加标签、标签拖拽、删除、换位功能
